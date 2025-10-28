@@ -31,5 +31,5 @@ To install and run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/INathMSOA/Keylogger---Beginner.git
+   https://github.com/INathMSOA/Keylogger---Beginner.git
    cd Keylogger---Beginner
