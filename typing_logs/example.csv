@@ -1,0 +1,4 @@
+session_id,timestamp_iso,key_sym,char
+abc123,2025-10-28T14:22:12Z,<Key.a>,a
+abc123,2025-10-28T14:22:13Z,<Key.b>,b
+abc123,2025-10-28T14:22:14Z,<Key.enter>,

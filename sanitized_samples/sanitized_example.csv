@@ -1,0 +1,4 @@
+session_hash,timestamp_rounded,key_sym,char_redacted
+6ca13d52ca70,2025-10-28T14:22:00+00:00,<Key.a>,<CHAR>
+6ca13d52ca70,2025-10-28T14:22:00+00:00,<Key.b>,<CHAR>
+6ca13d52ca70,2025-10-28T14:22:00+00:00,<Key.enter>,
